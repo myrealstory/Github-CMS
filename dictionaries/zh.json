@@ -1,0 +1,20 @@
+{
+	"Auth": {
+		"login": "登入",
+		"logout": "登出",
+		"emailAddress": "電郵地址",
+		"password": "密碼",
+		"rememberMe": "記住我",
+		"forgotPassword": "忘記密碼"
+	},
+	"tandc": {
+		"tandc": "一般 T&C",
+		"contentTitle": "條款及細則標題",
+		"privacyPolicy": "隱私政策標題",
+		"editBy": "更新由",
+		"editFrom": "更新於"
+	},
+	"maintenance": {
+		"maintenanceContent": "系統維護內容"
+	}
+}

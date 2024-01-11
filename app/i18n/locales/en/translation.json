@@ -1,0 +1,119 @@
+{
+    "en": {
+        "Title": {
+            "FirstTitle":"Application",
+            "SecondTitle":"Brand Management",
+            "brand": "Brand",
+            "branch": "Branch",
+            "category": "Category",
+            "area": "Area",
+            "tandc": "T&C",
+            "faqCategory": "FAQ Category",
+            "faq": "FAQ",
+            "contact": "Contact",
+            "tutorial": "Tutorial",
+            "appVersion": "App Version",
+            "maintenance": "Maintenance",
+            "clearCache": "Clear Cache"
+        },
+        "Auth": {
+            "login": "Log in",
+            "logout": "Log Out",
+            "emailAddress": "Email Address",
+            "password": "Password",
+            "rememberMe": "Remember Me",
+            "forgotPassword": "Forgot password"
+        },
+        "brand": {
+            "brand": "Brand",
+            "keyword": "Keyword",
+            "cuisine": "Cuisine",
+            "status": "Status",
+            "brandCode": "Brand Code",
+            "brandName": "Brand Name",
+            "lastEditTime": "Last Edit",
+            "edit": "Edit"
+        },
+        "branch": {
+            "branch": "Branch",
+            "keyword": "Keyword",
+            "itemKeyword": "Item Keyword",
+            "cuisine": "Cuisine",
+            "status": "Status",
+            "productCode": "Product Code",
+            "productName": "Product Name",
+            "stockNum": "Stock Number",
+            "edit": "Edit"
+        },
+        "category": {
+            "category": "Category",
+            "productName": "Product Name",
+            "status": "Status",
+            "edit": "Edit"
+        },
+        "area": {
+            "area": "Area",
+            "keyword": "Keyword",
+            "areaID": "Area ID",
+            "areaName": "Area Name",
+            "areaCode": "Area Code",
+            "centering": "Centering",
+            "edit": "Edit"
+        },
+        "tandc": {
+            "tandc": "T&C",
+            "contentTitle": "Content Title",
+            "privacyPolicy": "Privacy Policy",
+            "editBy": "Edit By",
+            "editFrom": "Edit From"
+        },
+        "faqCategory": {
+            "faqCategory": "FAQ Category",
+            "faqType": "FAQ Type",
+            "faqStatus": "Status(On/Off)",
+            "Updated": "Updated",
+            "edit": "Edit"
+            },
+            "faq": {
+                "faq": "FAQ",
+                "keyword": "Keyword",
+                "faqCategory": "FAQ Category",
+                "faqType": "FAQ Type",
+                "question": "Question",
+                "answer": "Answer",
+                "faqStatus": "Status(On/Off)",
+                "updated": "Updated",
+                "edit": "Edit"
+            },
+            "contact": {
+                "contact": "Contact",
+                "contactUs": "Contact Us",
+                "contactTitle": "Contact Title",
+                "contactContent": "Contact Content",
+                "status": "Status(On/Off)",
+                "edit": "Edit"
+            },
+            "tutorial": {
+                "tutorial": "Tutorial"
+            },
+            "appVersion": {
+                "appVersion": "App Version",
+                "upgradeIOSVersion": "iOS Version",
+                "upgradeAndroidVersion": "Android Version",
+                "startingTime": "Start On",
+                "endingTime": "Ended On",
+                "status": "Status(On/Off)",
+                "edit": "Edit"
+            },
+            "maintenance": {
+                "maintenance": "Maintenance",
+                "systemMaintenance": "System Maintenance",
+                "maintenanceContent": "Maintenance Content",
+                "startDate": "Start On",
+                "endedDate": "Ended On"
+            },
+            "clearCache": {
+                "clearCache": "Clear Cache"
+            }
+    }
+}

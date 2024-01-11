@@ -1,0 +1,120 @@
+{
+    "zh":
+    {
+
+        "Title":{
+            "FirstTitle":"應用程式內容",
+            "SecondTitle":"品牌管理",
+            "brand": "品牌管理",
+            "branch": "商品管理",
+            "category": "商品分類",
+            "area": "地區分類",
+            "tandc": "一般 T&C",
+            "faqCategory": "常見問題種類",
+            "faq": "常見問題",
+            "contact": "聯絡我們",
+            "tutorial": "導覽圖片",
+            "appVersion": "強制更新",
+            "maintenance": "系統維護",
+            "clearCache": "清除快取"
+        },
+        "Auth": {
+            "login": "登入",
+            "logout": "登出",
+            "emailAddress": "電郵地址",
+            "password": "密碼",
+            "rememberMe": "記住我",
+            "forgotPassword": "忘記密碼"
+        },
+        "brand": {
+            "brand": "品牌管理",
+            "keyword": "關鍵字",
+            "cuisine": "菜式",
+            "status": "狀態",
+            "brandCode": "品牌編號",
+            "brandName": "品牌名稱",
+            "lastEditTime": "上次修改日期",
+            "edit": "編輯"
+        },
+        "branch": {
+            "branch": "商品管理",
+            "keyword": "區域關鍵字",
+            "itemKeyword": "名稱",
+            "cuisine": "菜式",
+            "status": "狀態",
+            "productCode": "商品編號",
+            "productName": "商品名稱",
+            "stockNum": "存貨編號",
+            "edit": "編輯"
+        },
+        "category": {
+            "category": "商品分類",
+            "productName": "商品名稱",
+            "status": "狀態",
+            "edit": "編輯"
+        },
+        "area": {
+            "area": "地區分類",
+            "keyword": "區域",
+            "areaID": "區域 ID",
+            "areaName": "地區名稱",
+            "areaCode": "區域碼",
+            "centering": "中心地標",
+            "edit": "編輯"
+        },
+        "tandc": {
+            "tandc": "一般 T&C",
+            "contentTitle": "條款及細則標題",
+            "privacyPolicy": "隱私政策標題",
+            "editBy": "更新由",
+            "editFrom": "更新於"
+        },
+        "faqCategory": {
+                "faqCategory": "常見問題種類",
+                "faqType": "問題種類",
+                "faqStatus": "狀態(啟用/停用)",
+                "Updated": "更新於",
+                "edit": "編輯"
+            },
+        "faq": {
+            "faq": "常見問題",
+            "faqCategory": "常見問題種類",
+            "keyword": "關鍵字",
+            "faqType": "問題種類",
+            "question": "問題",
+            "answer": "答案",
+            "faqStatus": "狀態(啟用/停用)",
+            "updated": "更新於",
+            "edit": "編輯"
+        },
+        "contact": {
+            "contact": "聯絡我們",
+            "contactUs": "聯絡我們",
+            "contactTitle": "電郵主題",
+            "status": "狀態(啟用/停用)",
+            "edit": "編輯"
+        },
+        "tutorial": {
+            "tutorial": "導覽圖片"
+        },
+        "appVersion": {
+            "appVersion": "強制更新",
+            "upgradeIOSVersion": "iOS 版本",
+            "upgradeAndroidVersion": "Android 版本",
+            "startingTime": "開始時間",
+            "endingTime": "結束時間",
+            "status": "狀態(啟用/停用)",
+            "edit": "編輯"
+        },
+        "maintenance": {
+            "maintenance": "系統維護",
+            "systemMaintenance": "系統維護",
+            "maintenanceContent": "維護頁面內容",
+            "startDate": "開始日期",
+            "endedDate": "結束日期"
+        },
+        "clearCache": {
+            "clearCache": "清除快取"
+        }
+    }
+}

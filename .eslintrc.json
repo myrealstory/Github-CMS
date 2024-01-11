@@ -1,0 +1,23 @@
+{
+	"extends": [
+		"next/core-web-vitals",
+		"next",
+		"prettier",
+		"eslint:recommended",
+		"plugin:@typescript-eslint/recommended"
+	],
+	"parser": "@typescript-eslint/parser",
+	"parserOptions": {
+		"ecmaVersion": 2021,
+		"sourceType": "module",
+		"ecmaFeatures": {
+			"jsx": true
+		}
+	},
+	"plugins": ["prettier", "@typescript-eslint"],
+	"rules": {
+		"@typescript-eslint/no-explicit-any": "error",
+		"@typescript-eslint/no-unused-vars": "error",
+		"@typescript-eslint/no-var-requires": 0
+	}
+}
